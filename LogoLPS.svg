@@ -84,10 +84,9 @@
 </g>
 <g id="Plano">
 	<path class="st0" d="M40.9,112.1h16.4c0.8,0,1.5,0.7,1.5,1.5l0,0c0,0.8-0.7,1.5-1.5,1.5H40.9V112.1z"/>
-	<rect x="1" y="74.1" transform="matrix(9.397433e-12 -1 1 9.397433e-12 -41.0954 110.0558)" class="st0" width="66.9" height="3"/>
-	
-		<rect x="13.9" y="74.1" transform="matrix(9.397433e-12 -1 1 9.397433e-12 -28.1994 122.9519)" class="st0" width="66.9" height="3"/>
-	<ellipse class="st2" cx="40.9" cy="42" rx="6.4" ry="4.5"/>
+	<rect x="1" y="74" transform="matrix(9.373453e-12 -1 1 9.373453e-12 -41.01 109.9704)" class="st0" width="67" height="3"/>
+	<rect x="13.9" y="74" transform="matrix(9.373453e-12 -1 1 9.373453e-12 -28.114 122.8665)" class="st0" width="67" height="3"/>
+	<path class="st2" d="M34.5,42c0-2.5,2.9-4.5,6.4-4.5c3.6,0,6.4,2,6.4,4.5"/>
 	<path class="st2" d="M34.5,105.5c0-2.5,2.9-4.5,6.4-4.5c3.6,0,6.4,2,6.4,4.5"/>
 	<path class="st2" d="M47.4,109"/>
 	<path class="st2" d="M34.5,109c0,2.5,2.9,4.5,6.4,4.5"/>
